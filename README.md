@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rodriguez14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oscar-rodriguez-2b56b719b" height="30" width="40" /></a>
-<a href="https://fb.com/oscar rodriguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oscar rodriguez" height="30" width="40" /></a>
+<a href="https://fb.com/oscar rodriguez" target="blank"><img align="center" src="https://i.pinimg.com/originals/d6/31/5f/d6315f37f2262496228462ef732e83b1.jpg" alt="oscar rodriguez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
